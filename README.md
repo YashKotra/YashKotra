@@ -5,7 +5,7 @@ h1 align="center">Hi 👋, I'm Yash Kotra</h1>
 
 <p align="left"> <a href="https://twitter.com/kotrayash" target="blank"><img src="https://img.shields.io/twitter/follow/kotrayash?logo=twitter&style=for-the-badge" alt="kotrayash" /></a> </p>
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF0dTYycjlnNW50dmppc252am9nMTVsY214YndnMm5oZHBmNnZjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="codinggif" width="400">
-- 📫 How to reach me **yash2019kotra@gmail.com**
+- 📫 How to reach me *yash2019kotra@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
